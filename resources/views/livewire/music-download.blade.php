@@ -1,0 +1,7 @@
+<livewire:styles />
+
+
+
+
+
+<livewire:scripts />
